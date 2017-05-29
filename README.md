@@ -1,5 +1,5 @@
-# Artificial_Intelligence
-This repository contains the trial implementations for Artificial Intelligence/Machine Learning.
+# Algorithms
+This repository contains the trial implementations for Artificial Intelligence/Machine Learning algorithms.
 
 Including:
 * Path Finding Algorithm
