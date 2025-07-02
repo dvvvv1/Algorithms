@@ -1,8 +1,6 @@
-
-//Author: Puzhi Yao
-//Student ID: 1205593
-//Coding Date: 22 Mar 2015
-//AI Assignment 1
+// Author: PZ.Yao
+// Coding Date: 22 Mar 2015
+// AI Assignment 1
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -10,7 +8,6 @@ import java.io.IOException;
 import java.util.Collections;
 import java.util.Vector;
 enum Status { UNEXPLORED, EXPLORED };
-
 
 public class pathfinder {
 	public static void main(String[] args) throws IOException{
