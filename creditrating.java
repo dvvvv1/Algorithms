@@ -1,6 +1,6 @@
-//AI Assignment 2
-//Author: Puzhi Yao
-//Date: 19 April 2015
+// AI Assignment 2
+// Author: PZ.Yao
+// Date: 19 April 2015
 
 import java.io.BufferedReader;
 import java.io.FileReader;
