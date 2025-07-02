@@ -1,3 +1,7 @@
+// AI Assignment 3
+// Author: PZ.Yao
+// Date: 11 May 2015
+
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.File;
@@ -10,10 +14,6 @@ import java.util.Vector;
 import java.util.function.IntPredicate;
 
 import javax.naming.spi.DirStateFactory.Result;
-
-//AI Assignment 3
-//Author: Puzhi Yao
-//Date: 11 May 2015
 
 public class inference {
 	public static int totNumSamples;
